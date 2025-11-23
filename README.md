@@ -32,6 +32,7 @@ The target price was derived using a **5-Year Discounted Cash Flow (DCF)** model
 *   **Shares Outstanding:** 2.62 Billion
 *   **Implied Share Price:** **CHF 89.30**
 
+![image_url](https://github.com/quocanh3910/Nestle-Valuation-Model/blob/262a59695f50df4a6d884ca7683cd594ef3dcebe/Nestle's%20DCF%20Valuation.png) 
 ### 3. Sensitivity Analysis
 *Impact of WACC and Terminal Growth Rate on Stock Price (CHF):*
 
